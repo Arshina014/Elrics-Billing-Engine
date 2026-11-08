@@ -1,0 +1,12 @@
+{
+  "name": "elrics-billing-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Elrics E-Commerce Billing & Coupon Engine - React frontend",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "license": "UNLICENSED"
+}
