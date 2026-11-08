@@ -207,12 +207,6 @@ All assumptions made where the assessment left decisions open (to be updated as 
 
 ---
 
-## 📌 Assessment Guidelines
-
-- Official documentation, search engines, AI coding assistants and personal notes **may be used**.
-- Every implementation detail and technical decision must be **explainable during the technical discussion**.
-- Payment gateway integration is **not required** — orders are dummy orders.
-
 ---
 
 <p align="center">
